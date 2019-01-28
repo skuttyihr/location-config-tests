@@ -1,0 +1,28 @@
+### prod; beta; stage; master; sandbox; qa
+ENVIRONMENT=prod
+
+### US; CA; AU; NZ; MX
+COUNTRYCODE=US
+
+### iphone.mobile; android.mobile; webapp
+HOSTNAME=webapp
+#HOSTNAME=android.mobile
+#HOSTNAME=iphone.mobile
+
+
+### 8.15.3; 8.17.0; 8
+VERSION=8
+#VERSION=8.17.0
+#VERSION=8.15.3
+
+
+### ios; android; web; all
+PLATFORM=web
+#PLATFORM=android
+#PLATFORM=ios
+
+### prod; non-prod
+CLIENTENVIRONMENT=prod
+#CLIENTENVIRONMENT=non-prod
+
+

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/test" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**/*.java" kind="src" output="bin/test" path="src/test/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**/*.java" kind="src" output="bin/test" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/4.0.1/9ec84728bf4236b8f9ec7fef3fe1b705eef2b408/poi-ooxml-4.0.1.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/4.0.1/ca77bff4bf4d43e6ccd5eab4905a3c2f0fc608e9/poi-ooxml-4.0.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-contrib/3.7-beta3/2d870489161a558cc54e445626be5aade99f25c5/poi-contrib-3.7-beta3.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-contrib/3.7-beta3/67dd9c68d978022d4d651cdeedc93935a1e8813c/poi-contrib-3.7-beta3-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/4.0.1/d8eaa341687a7dc48048d964d0d53238959ca9b5/poi-4.0.1.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/4.0.1/47c6ff841654646f1c37639b1cd7c39b3029799c/poi-4.0.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.2/54ebea0a5b653d3c680131e73fe807bb8f78c4ed/commons-collections4-4.2.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.2/e8dd003d43b1f7dba173fb7e63f5c0b823f5e5c6/commons-collections4-4.2-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml-schemas/4.0.1/d2a066340008d36cb289b71f0f7b6ad562940644/poi-ooxml-schemas-4.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/3.0.2/b9870982e53200b11c11800f4438620290522272/xmlbeans-3.0.2.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/3.0.2/46dde72abfaaeaa02fdf597c4523b2826ca443a9/xmlbeans-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.1.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/a8e7149359255f43e0e5e3b1837948f9ed5861fb/dom4j-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/15bba08e3a239d54b68209c001f9c911559d2fed/json-simple-1.1.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/bce4ba84fd527950e35040b20a991c63e90e2850/commons-codec-1.11-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/8fab23986ea8886af34818daf32a718e81dc98ba/commons-math3-3.6.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5/commons-compress-1.18.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/a25b942b99fde2cc2913ab39ad34abc0df4f5eb9/commons-compress-1.18-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/com.github.virtuald/curvesapi/1.05/d4f227b550a0ab2b48360dd0ef64c9de93e45424/curvesapi-1.05.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/com.github.virtuald/curvesapi/1.05/171c75a93d6d216b57568c2a43962df3fc5b2b02/curvesapi-1.05-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/3136ca936f64c9d68529f048c2618bd356bf85c9/xml-apis-1.0.b2.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/d8525661c5a0a05702fa41873d250d135031ec25/xml-apis-1.0.b2-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/e4f1766ce7404a08f45d859fb9c226fc9e41a861/junit-4.10.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/junit/junit/4.10/6c98d6766e72d5575f96c9479d1c1d3b865c6e25/junit-4.10-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/2ccf1154d1a8936042a8a742dc3e611d02ac7213/hamcrest-core-1.1-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.13/8b1b85d04eea979c33109ea42808b7d3f6d355ab/log4j-1.2.13.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.13/d77ba5661ca05a5eabdaa38c71d3da595318ee7/log4j-1.2.13-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" sourcepath="/Users/sreekalakutty/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>

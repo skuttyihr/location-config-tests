@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<TestProperties>
+	<TestRunInfo> 
+
+		<!--prod; beta; stage; master; sandbox; qa--><Environment>prod</Environment>
+
+		<!--US; CA; AU; NZ; MX-->
+		<CountryCode>US</CountryCode><!--iphone.mobile; android.mobile; webapp--><HostName>iphone.mobile</HostName><!--8.15.3; 8.15.0; 8--><Version>8.15.3</Version>
+
+
+		<!--ios; android; web; all--><Platform>ios</Platform><!--prod; non-prod-->
+		<ClientEnvironment>prod</ClientEnvironment></TestRunInfo>
+	<DriverInfo>
+		<GridUrl>http://localhost</GridUrl>
+		<Port>4444</Port>
+
+		<!--0 = Chrome; 1 = Firefox-->
+		<Browser>0</Browser>
+	</DriverInfo>
+	<Chromedriver>
+		<Location>/Users/sreekalakutty/Desktop/newWorkSpace/Chrome/chromedriver</Location>
+	</Chromedriver>
+ 	<LocalizationFile>
+ 		<Location>/Users/sreekalakutty/Library/Mobile Documents/com~apple~CloudDocs/Config test backup/Final BackUp Dec7th/config-api-tests/resources/iHeartRadio Localization.xlsx</Location></LocalizationFile></TestProperties>
